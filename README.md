@@ -1,10 +1,13 @@
 # Life is Feudal - Game map fix Proof of Concept
 
+> Live demo https://tag9724.github.io/lif-game-map-v4-debug/
+
 The in-game map of Life is Feudal MMO cause many lag and crash issues due to the amount of informations displayed, typically guilds monuments and outposts, by using virtualisation technique that remove from the dom every map marker out of view we can fix the issue entirely.
 
-The code used for the fix is a slightly modified version of this one : 
-- With the fix enabled https://jsfiddle.net/n5rqfhg9/7 
-- Without the fix enabled https://jsfiddle.net/n5rqfhg9/7 
+The code used for the fix is a slightly modified version of this one :
+
+- With the fix enabled https://jsfiddle.net/n5rqfhg9/7
+- Without the fix enabled https://jsfiddle.net/n5rqfhg9/7
 
 The only thing to do is to copy this block of code at the beginning of the game map script
 
@@ -77,5 +80,12 @@ L.Marker.addInitHook(function () {
     this
   )
 })
-
 ```
+
+## Additional notes
+
+- The implementation could be way better and more optimized, having a single event managing all markers instead of one event per marker is a way better way of doing the virtualisation.
+
+- The additional onMove debounce have a minor issue and can be improved too.
+
+- This map actually show players terraforming in game, the tile layer use the correct url to fetch data.

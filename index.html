@@ -19,6 +19,23 @@
       image-rendering: pixelated;
     }
 
+    #about {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 5500;
+      padding: 10px;
+      background: #222222a8;
+      color: #fff;
+      max-width: calc(100vw - 80px);
+      border-radius: 0 0 0 .25rem;
+    }
+
+    #about a {
+      color: #61b1ff;
+      display: block;
+    }
+
     #display-guilds-button {
       position: absolute;
       bottom: 10px;
@@ -52,6 +69,14 @@
 </head>
 
 <body>
+
+  <div id="about">
+    More informations about this project here
+
+    <a href="https://github.com/tag9724/lif-game-map-v4-debug">
+      https://github.com/tag9724/lif-game-map-v4-debug
+    </a>
+  </div>
 
   <div id="game-map"></div>
 
