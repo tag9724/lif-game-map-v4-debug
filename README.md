@@ -7,7 +7,7 @@ The in-game map of Life is Feudal MMO cause many lag and crash issues due to the
 The code used for the fix is a slightly modified version of this one :
 
 - With the fix enabled https://jsfiddle.net/n5rqfhg9/7
-- Without the fix enabled https://jsfiddle.net/n5rqfhg9/7
+- Without the fix enabled https://jsfiddle.net/n5rqfhg9/8
 
 The only thing to do is to copy this block of code at the beginning of the game map script
 
