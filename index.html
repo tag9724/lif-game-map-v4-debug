@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <title>Lif - Godenland v4</title>
+  <link rel="stylesheet" href="./lib/leaflet/leaflet.css">
+
+  <style>
+    html,
+    body,
+    #game-map {
+      margin: 0;
+      background: #222;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    .pixelated-images img {
+      image-rendering: pixelated;
+    }
+
+    #display-guilds-button {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      border: 5px solid #000;
+      padding: 10px 20px;
+      font-size: 20px;
+      transform: translateX(-50%);
+      background: #fff;
+      color: #222;
+      border-radius: 0.25rem;
+      cursor: pointer;
+      animation: ClickME 2.5s infinite ease-in-out;
+      z-index: 5500;
+    }
+
+    @keyframes ClickME {
+
+      0%,
+      100% {
+        border-color: #000;
+        color: #000;
+      }
+
+      50% {
+        border-color: red;
+        color: red;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="game-map"></div>
+
+  <button id="display-guilds-button">
+    Display guilds
+  </button>
+
+  <script type="module" src="game-map.mjs"></script>
+
+</body>
+
+</html>

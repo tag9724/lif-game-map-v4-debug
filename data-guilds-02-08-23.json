@@ -1,0 +1,1808 @@
+[
+  {
+    "name": "SMASHER",
+    "x": 3589,
+    "y": 17501,
+    "guildId": 3
+  },
+  {
+    "name": "EFC",
+    "x": 3223,
+    "y": 12190,
+    "guildId": 4
+  },
+  {
+    "name": "Deutschritterorden",
+    "x": 7218,
+    "y": 13568,
+    "guildId": 5
+  },
+  {
+    "name": "VESTFOLD",
+    "x": 2833,
+    "y": 17012,
+    "guildId": 7
+  },
+  {
+    "name": "Corhaven Bastards",
+    "x": 12557,
+    "y": 2128,
+    "guildId": 8
+  },
+  {
+    "name": "Lumber R Us",
+    "x": 14729,
+    "y": 2231,
+    "guildId": 9
+  },
+  {
+    "name": "The Varangian Guard",
+    "x": 10939,
+    "y": 14609,
+    "guildId": 11
+  },
+  {
+    "name": "Alatur",
+    "x": 15610,
+    "y": 14877,
+    "guildId": 15
+  },
+  {
+    "name": "Greifenstein",
+    "x": 17037,
+    "y": 4684,
+    "guildId": 17
+  },
+  {
+    "name": "Jomsborg",
+    "x": 12825,
+    "y": 2429,
+    "guildId": 18
+  },
+  {
+    "name": "UWA-GUARD",
+    "x": 13945,
+    "y": 14269,
+    "guildId": 19
+  },
+  {
+    "name": "FavoRiteS",
+    "x": 14386,
+    "y": 9342,
+    "guildId": 20
+  },
+  {
+    "name": "Amazons",
+    "x": 17808,
+    "y": 7100,
+    "guildId": 21
+  },
+  {
+    "name": "My LiF is OVER",
+    "x": 16365,
+    "y": 8427,
+    "guildId": 26
+  },
+  {
+    "name": "The LAST Orden",
+    "x": 9606,
+    "y": 13860,
+    "guildId": 28
+  },
+  {
+    "name": "Pilgrims 0f War",
+    "x": 17011,
+    "y": 16456,
+    "guildId": 29
+  },
+  {
+    "name": "SAC",
+    "x": 15922,
+    "y": 9652,
+    "guildId": 30
+  },
+  {
+    "name": "Boquita Pasion",
+    "x": 16334,
+    "y": 10174,
+    "guildId": 31
+  },
+  {
+    "name": "Gaolaozhuang",
+    "x": 16786,
+    "y": 10606,
+    "guildId": 32
+  },
+  {
+    "name": "The Woodland Realm",
+    "x": 7190,
+    "y": 3039,
+    "guildId": 33
+  },
+  {
+    "name": "Oblitus Legio",
+    "x": 11883,
+    "y": 281,
+    "guildId": 35
+  },
+  {
+    "name": "Moscovia",
+    "x": 14331,
+    "y": 1733,
+    "guildId": 36
+  },
+  {
+    "name": "P I R A T E S",
+    "x": 5070,
+    "y": 10133,
+    "guildId": 37
+  },
+  {
+    "name": "Saltbringers",
+    "x": 6795,
+    "y": 9913,
+    "guildId": 38
+  },
+  {
+    "name": "Bad Idea",
+    "x": 9796,
+    "y": 13515,
+    "guildId": 39
+  },
+  {
+    "name": "Northumbrian",
+    "x": 9603,
+    "y": 10006,
+    "guildId": 40
+  },
+  {
+    "name": "Seigneurie D Amance",
+    "x": 5112,
+    "y": 88,
+    "guildId": 41
+  },
+  {
+    "name": "SAMURAI",
+    "x": 16167,
+    "y": 9583,
+    "guildId": 42
+  },
+  {
+    "name": "Knights of the Blair X",
+    "x": 14117,
+    "y": 748,
+    "guildId": 43
+  },
+  {
+    "name": "Crimson Brotherhood",
+    "x": 8123,
+    "y": 18032,
+    "guildId": 44
+  },
+  {
+    "name": "Gfgfgf",
+    "x": 17752,
+    "y": 725,
+    "guildId": 45
+  },
+  {
+    "name": "Forteresse de Louisbourg",
+    "x": 1671,
+    "y": 2017,
+    "guildId": 47
+  },
+  {
+    "name": "Corteim",
+    "x": 14985,
+    "y": 2046,
+    "guildId": 48
+  },
+  {
+    "name": "Hyozan Nord",
+    "x": 10951,
+    "y": 15474,
+    "guildId": 49
+  },
+  {
+    "name": "Catan",
+    "x": 200,
+    "y": 17890,
+    "guildId": 50
+  },
+  {
+    "name": "Rippchen",
+    "x": 10683,
+    "y": 14742,
+    "guildId": 51
+  },
+  {
+    "name": "KarniMata",
+    "x": 9596,
+    "y": 11805,
+    "guildId": 53
+  },
+  {
+    "name": "Modre Overlords",
+    "x": 7125,
+    "y": 6854,
+    "guildId": 54
+  },
+  {
+    "name": "Wild",
+    "x": 5406,
+    "y": 6037,
+    "guildId": 55
+  },
+  {
+    "name": "Meliora",
+    "x": 5257,
+    "y": 16556,
+    "guildId": 57
+  },
+  {
+    "name": "Johanniterritterorden",
+    "x": 1458,
+    "y": 15516,
+    "guildId": 58
+  },
+  {
+    "name": "Sunset Tavern B",
+    "x": 2177,
+    "y": 6375,
+    "guildId": 59
+  },
+  {
+    "name": "le gang des croqueurs",
+    "x": 17963,
+    "y": 10595,
+    "guildId": 60
+  },
+  {
+    "name": "Calibur",
+    "x": 2331,
+    "y": 11358,
+    "guildId": 61
+  },
+  {
+    "name": "IronFoot StrongHold",
+    "x": 5219,
+    "y": 3428,
+    "guildId": 62
+  },
+  {
+    "name": "Southern traders",
+    "x": 6703,
+    "y": 6441,
+    "guildId": 63
+  },
+  {
+    "name": "FENIX",
+    "x": 17737,
+    "y": 13971,
+    "guildId": 64
+  },
+  {
+    "name": "DRUNKEN BEARS",
+    "x": 6028,
+    "y": 3971,
+    "guildId": 65
+  },
+  {
+    "name": "Armoured Farmers",
+    "x": 17156,
+    "y": 1179,
+    "guildId": 66
+  },
+  {
+    "name": "WolveZ",
+    "x": 7516,
+    "y": 2658,
+    "guildId": 67
+  },
+  {
+    "name": "The Stone Crows",
+    "x": 17740,
+    "y": 8594,
+    "guildId": 69
+  },
+  {
+    "name": "Duchy of Wessex",
+    "x": 4290,
+    "y": 5329,
+    "guildId": 71
+  },
+  {
+    "name": "Chiki Briki ",
+    "x": 15668,
+    "y": 7796,
+    "guildId": 72
+  },
+  {
+    "name": "The Society",
+    "x": 9547,
+    "y": 15617,
+    "guildId": 73
+  },
+  {
+    "name": "Thorgard II",
+    "x": 10466,
+    "y": 15766,
+    "guildId": 74
+  },
+  {
+    "name": "Sadge Gang",
+    "x": 11571,
+    "y": 2664,
+    "guildId": 75
+  },
+  {
+    "name": "alienware",
+    "x": 15331,
+    "y": 7805,
+    "guildId": 76
+  },
+  {
+    "name": "The Lost Irishmen",
+    "x": 10738,
+    "y": 14283,
+    "guildId": 80
+  },
+  {
+    "name": "Red Outpost",
+    "x": 12181,
+    "y": 14625,
+    "guildId": 81
+  },
+  {
+    "name": "The Grimrock Collective",
+    "x": 15332,
+    "y": 8410,
+    "guildId": 83
+  },
+  {
+    "name": "Valley of the Dragons",
+    "x": 7488,
+    "y": 3300,
+    "guildId": 85
+  },
+  {
+    "name": "DROOST",
+    "x": 7376,
+    "y": 13510,
+    "guildId": 86
+  },
+  {
+    "name": "Wolfshain",
+    "x": 3462,
+    "y": 5984,
+    "guildId": 87
+  },
+  {
+    "name": "Karaz-Ankor",
+    "x": 15383,
+    "y": 17285,
+    "guildId": 88
+  },
+  {
+    "name": "Berserkove",
+    "x": 3978,
+    "y": 2668,
+    "guildId": 89
+  },
+  {
+    "name": "Sueben",
+    "x": 10626,
+    "y": 14562,
+    "guildId": 90
+  },
+  {
+    "name": "BANDITS",
+    "x": 7080,
+    "y": 3044,
+    "guildId": 93
+  },
+  {
+    "name": "Blackclaw",
+    "x": 8852,
+    "y": 14979,
+    "guildId": 94
+  },
+  {
+    "name": "Dynamic Task Force",
+    "x": 15622,
+    "y": 271,
+    "guildId": 95
+  },
+  {
+    "name": "Pengu Port",
+    "x": 1572,
+    "y": 4265,
+    "guildId": 96
+  },
+  {
+    "name": "TwinFreaks",
+    "x": 18098,
+    "y": 16830,
+    "guildId": 97
+  },
+  {
+    "name": "Reunion Village",
+    "x": 493,
+    "y": 15144,
+    "guildId": 98
+  },
+  {
+    "name": "Bergheim",
+    "x": 7544,
+    "y": 14904,
+    "guildId": 99
+  },
+  {
+    "name": "Avant Garde Amancoise",
+    "x": 5091,
+    "y": 111,
+    "guildId": 100
+  },
+  {
+    "name": "The Kingdom of Masons",
+    "x": 11413,
+    "y": 5672,
+    "guildId": 102
+  },
+  {
+    "name": "DRONORD",
+    "x": 7231,
+    "y": 13655,
+    "guildId": 103
+  },
+  {
+    "name": "Bretonnie",
+    "x": 4870,
+    "y": 222,
+    "guildId": 104
+  },
+  {
+    "name": "Ukrainian Sexy Boys",
+    "x": 12262,
+    "y": 14662,
+    "guildId": 105
+  },
+  {
+    "name": "SLOWIANIE",
+    "x": 3295,
+    "y": 5480,
+    "guildId": 107
+  },
+  {
+    "name": "TEMPLAR",
+    "x": 7188,
+    "y": 2551,
+    "guildId": 108
+  },
+  {
+    "name": "Merciless Militia",
+    "x": 8083,
+    "y": 13057,
+    "guildId": 109
+  },
+  {
+    "name": "Sanctuariy",
+    "x": 8603,
+    "y": 16423,
+    "guildId": 110
+  },
+  {
+    "name": "THE SCOTLAND COALITION",
+    "x": 15640,
+    "y": 15808,
+    "guildId": 111
+  },
+  {
+    "name": "Handelshaus",
+    "x": 16572,
+    "y": 14055,
+    "guildId": 113
+  },
+  {
+    "name": "Dog-Eat-Dog",
+    "x": 526,
+    "y": 11719,
+    "guildId": 115
+  },
+  {
+    "name": "Warsteiner",
+    "x": 17275,
+    "y": 9356,
+    "guildId": 118
+  },
+  {
+    "name": "Westfold",
+    "x": 2645,
+    "y": 17113,
+    "guildId": 120
+  },
+  {
+    "name": "City of Sinners",
+    "x": 12728,
+    "y": 7050,
+    "guildId": 121
+  },
+  {
+    "name": "Nord West Traders",
+    "x": 1089,
+    "y": 10860,
+    "guildId": 122
+  },
+  {
+    "name": "Ordem dos Cavaleiros Templarios",
+    "x": 16343,
+    "y": 9664,
+    "guildId": 123
+  },
+  {
+    "name": "The Woodsmen",
+    "x": 5483,
+    "y": 9715,
+    "guildId": 125
+  },
+  {
+    "name": "Ambrosy",
+    "x": 5354,
+    "y": 4587,
+    "guildId": 126
+  },
+  {
+    "name": "Nachtwache",
+    "x": 17185,
+    "y": 4218,
+    "guildId": 130
+  },
+  {
+    "name": "Dragon House",
+    "x": 5270,
+    "y": 2852,
+    "guildId": 132
+  },
+  {
+    "name": "Unbroken",
+    "x": 6278,
+    "y": 14884,
+    "guildId": 133
+  },
+  {
+    "name": "Northfold",
+    "x": 2734,
+    "y": 17184,
+    "guildId": 134
+  },
+  {
+    "name": "HID",
+    "x": 13783,
+    "y": 16201,
+    "guildId": 135
+  },
+  {
+    "name": "Axeholes",
+    "x": 11719,
+    "y": 3877,
+    "guildId": 136
+  },
+  {
+    "name": "Rune",
+    "x": 6955,
+    "y": 10181,
+    "guildId": 138
+  },
+  {
+    "name": "Armed Online",
+    "x": 3550,
+    "y": 5401,
+    "guildId": 143
+  },
+  {
+    "name": "TahomaToo",
+    "x": 2079,
+    "y": 2342,
+    "guildId": 144
+  },
+  {
+    "name": "Black Fire",
+    "x": 1652,
+    "y": 17547,
+    "guildId": 146
+  },
+  {
+    "name": "The Rusted Shovels",
+    "x": 11893,
+    "y": 5169,
+    "guildId": 147
+  },
+  {
+    "name": "Corhaven Vineyards",
+    "x": 12683,
+    "y": 2124,
+    "guildId": 148
+  },
+  {
+    "name": "Fort-Temiscamingue",
+    "x": 14399,
+    "y": 17660,
+    "guildId": 149
+  },
+  {
+    "name": "House of Khans",
+    "x": 4571,
+    "y": 5126,
+    "guildId": 150
+  },
+  {
+    "name": "Sunset Tavern C",
+    "x": 2078,
+    "y": 6292,
+    "guildId": 151
+  },
+  {
+    "name": "Sunset Tavern A",
+    "x": 2028,
+    "y": 6416,
+    "guildId": 156
+  },
+  {
+    "name": "Radish Kingdom",
+    "x": 240,
+    "y": 12637,
+    "guildId": 158
+  },
+  {
+    "name": "Pantera",
+    "x": 10988,
+    "y": 5407,
+    "guildId": 162
+  },
+  {
+    "name": "Ravens of Odin",
+    "x": 16472,
+    "y": 17804,
+    "guildId": 163
+  },
+  {
+    "name": "Citadel",
+    "x": 12962,
+    "y": 11422,
+    "guildId": 165
+  },
+  {
+    "name": "Gensokyo",
+    "x": 16434,
+    "y": 9501,
+    "guildId": 166
+  },
+  {
+    "name": "Guna Munga",
+    "x": 4778,
+    "y": 2085,
+    "guildId": 168
+  },
+  {
+    "name": "Hyozan filler",
+    "x": 10890,
+    "y": 15409,
+    "guildId": 169
+  },
+  {
+    "name": "Argos",
+    "x": 3262,
+    "y": 16786,
+    "guildId": 170
+  },
+  {
+    "name": "Oak Grove Brothers",
+    "x": 11239,
+    "y": 10533,
+    "guildId": 171
+  },
+  {
+    "name": "HammerAndSword",
+    "x": 8857,
+    "y": 6338,
+    "guildId": 173
+  },
+  {
+    "name": "Good Idea",
+    "x": 10732,
+    "y": 14455,
+    "guildId": 175
+  },
+  {
+    "name": "Les Normands",
+    "x": 11448,
+    "y": 422,
+    "guildId": 176
+  },
+  {
+    "name": "Sunset Warriors",
+    "x": 4959,
+    "y": 4983,
+    "guildId": 177
+  },
+  {
+    "name": "Liga de Los Andes",
+    "x": 1243,
+    "y": 7547,
+    "guildId": 179
+  },
+  {
+    "name": "Frozen Farm",
+    "x": 2203,
+    "y": 14795,
+    "guildId": 181
+  },
+  {
+    "name": "Frozen Crow",
+    "x": 2085,
+    "y": 14715,
+    "guildId": 182
+  },
+  {
+    "name": "Clan The Just",
+    "x": 18190,
+    "y": 5960,
+    "guildId": 186
+  },
+  {
+    "name": "Sunshine",
+    "x": 2381,
+    "y": 11089,
+    "guildId": 189
+  },
+  {
+    "name": "QUASAR",
+    "x": 10936,
+    "y": 1828,
+    "guildId": 190
+  },
+  {
+    "name": "The Island Boys",
+    "x": 16672,
+    "y": 1663,
+    "guildId": 192
+  },
+  {
+    "name": "Partizanen",
+    "x": 10913,
+    "y": 3967,
+    "guildId": 195
+  },
+  {
+    "name": "Godheim",
+    "x": 17909,
+    "y": 327,
+    "guildId": 196
+  },
+  {
+    "name": "Orki",
+    "x": 11268,
+    "y": 5667,
+    "guildId": 197
+  },
+  {
+    "name": "BeargarD",
+    "x": 8202,
+    "y": 10795,
+    "guildId": 198
+  },
+  {
+    "name": "Sunset Island",
+    "x": 5045,
+    "y": 4868,
+    "guildId": 199
+  },
+  {
+    "name": "United-Western-Army",
+    "x": 13859,
+    "y": 14222,
+    "guildId": 201
+  },
+  {
+    "name": "Fafnir",
+    "x": 7362,
+    "y": 3670,
+    "guildId": 203
+  },
+  {
+    "name": "Motansallod",
+    "x": 7867,
+    "y": 10218,
+    "guildId": 204
+  },
+  {
+    "name": "FAT KIDS ARE HARD TO KIDNAP Ultra",
+    "x": 13983,
+    "y": 648,
+    "guildId": 205
+  },
+  {
+    "name": "SOSISTOS MY PISTOS AMIGOS",
+    "x": 16312,
+    "y": 9852,
+    "guildId": 207
+  },
+  {
+    "name": "SMASHERS CAMP",
+    "x": 3668,
+    "y": 17453,
+    "guildId": 208
+  },
+  {
+    "name": "Reunion Coast",
+    "x": 308,
+    "y": 15026,
+    "guildId": 210
+  },
+  {
+    "name": "Reunion Forest",
+    "x": 352,
+    "y": 15108,
+    "guildId": 212
+  },
+  {
+    "name": "Remnant",
+    "x": 11147,
+    "y": 4470,
+    "guildId": 214
+  },
+  {
+    "name": " Reunion Field",
+    "x": 622,
+    "y": 15254,
+    "guildId": 215
+  },
+  {
+    "name": "Blackstone",
+    "x": 11306,
+    "y": 17095,
+    "guildId": 217
+  },
+  {
+    "name": "ForAlliance",
+    "x": 3135,
+    "y": 12142,
+    "guildId": 219
+  },
+  {
+    "name": "Guardioes do oeste",
+    "x": 16595,
+    "y": 9637,
+    "guildId": 220
+  },
+  {
+    "name": "House Of Keller",
+    "x": 16859,
+    "y": 16242,
+    "guildId": 221
+  },
+  {
+    "name": "Tsahrim Merchant Company",
+    "x": 3597,
+    "y": 11317,
+    "guildId": 222
+  },
+  {
+    "name": "Acretinos",
+    "x": 16392,
+    "y": 15895,
+    "guildId": 228
+  },
+  {
+    "name": "BLACK KNIGHTS TEMPLAR",
+    "x": 16645,
+    "y": 9545,
+    "guildId": 229
+  },
+  {
+    "name": "Klippenwoelfe",
+    "x": 13268,
+    "y": 5313,
+    "guildId": 232
+  },
+  {
+    "name": "Germanen",
+    "x": 17294,
+    "y": 5229,
+    "guildId": 235
+  },
+  {
+    "name": "OLYMPUS",
+    "x": 4974,
+    "y": 2807,
+    "guildId": 236
+  },
+  {
+    "name": "Rabenwaldraeuber",
+    "x": 1239,
+    "y": 14369,
+    "guildId": 238
+  },
+  {
+    "name": "Sunset Wood",
+    "x": 4836,
+    "y": 4945,
+    "guildId": 239
+  },
+  {
+    "name": "Vestfold-Knols",
+    "x": 3452,
+    "y": 16042,
+    "guildId": 240
+  },
+  {
+    "name": "Smashers Farm",
+    "x": 3372,
+    "y": 16176,
+    "guildId": 241
+  },
+  {
+    "name": "CrockboneLegacy",
+    "x": 1923,
+    "y": 3556,
+    "guildId": 246
+  },
+  {
+    "name": "Serenity",
+    "x": 7308,
+    "y": 1131,
+    "guildId": 247
+  },
+  {
+    "name": "Head Hunter",
+    "x": 16292,
+    "y": 17680,
+    "guildId": 251
+  },
+  {
+    "name": "KUZBACC",
+    "x": 8494,
+    "y": 4759,
+    "guildId": 252
+  },
+  {
+    "name": "Exiles of Valhalla",
+    "x": 11021,
+    "y": 3535,
+    "guildId": 254
+  },
+  {
+    "name": "GOHA",
+    "x": 3317,
+    "y": 12053,
+    "guildId": 255
+  },
+  {
+    "name": "SMASH",
+    "x": 5168,
+    "y": 14161,
+    "guildId": 256
+  },
+  {
+    "name": "exoguild",
+    "x": 15298,
+    "y": 14714,
+    "guildId": 260
+  },
+  {
+    "name": "Gsys",
+    "x": 17315,
+    "y": 4368,
+    "guildId": 265
+  },
+  {
+    "name": "Sumpfberg",
+    "x": 6683,
+    "y": 9791,
+    "guildId": 267
+  },
+  {
+    "name": "Hyozan West filler",
+    "x": 10711,
+    "y": 15394,
+    "guildId": 273
+  },
+  {
+    "name": "ioikc",
+    "x": 16342,
+    "y": 9434,
+    "guildId": 276
+  },
+  {
+    "name": "SoDsLegacy",
+    "x": 998,
+    "y": 3290,
+    "guildId": 277
+  },
+  {
+    "name": "Handelshaus 2",
+    "x": 18222,
+    "y": 14089,
+    "guildId": 281
+  },
+  {
+    "name": "MUROM",
+    "x": 14381,
+    "y": 2029,
+    "guildId": 282
+  },
+  {
+    "name": "La Caserne d Amance",
+    "x": 5156,
+    "y": 103,
+    "guildId": 285
+  },
+  {
+    "name": "The Whitewoods",
+    "x": 6702,
+    "y": 2689,
+    "guildId": 287
+  },
+  {
+    "name": "United Natives Farm",
+    "x": 16483,
+    "y": 15937,
+    "guildId": 289
+  },
+  {
+    "name": "Kronie Bastards",
+    "x": 11816,
+    "y": 1184,
+    "guildId": 293
+  },
+  {
+    "name": "BDSM LOVER",
+    "x": 17167,
+    "y": 10622,
+    "guildId": 294
+  },
+  {
+    "name": "Maybe",
+    "x": 7560,
+    "y": 8011,
+    "guildId": 301
+  },
+  {
+    "name": "Johanniterritterorden Bergwerk",
+    "x": 810,
+    "y": 16132,
+    "guildId": 302
+  },
+  {
+    "name": "Sunset Cropland",
+    "x": 5070,
+    "y": 4983,
+    "guildId": 303
+  },
+  {
+    "name": "Abandoned Outpost",
+    "x": 10408,
+    "y": 16713,
+    "guildId": 305
+  },
+  {
+    "name": "SlaveEXC",
+    "x": 7699,
+    "y": 7622,
+    "guildId": 307
+  },
+  {
+    "name": "Chebureki",
+    "x": 8155,
+    "y": 9469,
+    "guildId": 308
+  },
+  {
+    "name": "Baummm",
+    "x": 7246,
+    "y": 13459,
+    "guildId": 311
+  },
+  {
+    "name": "The Coastal Traders",
+    "x": 3109,
+    "y": 13056,
+    "guildId": 313
+  },
+  {
+    "name": "Kattegat",
+    "x": 12820,
+    "y": 630,
+    "guildId": 314
+  },
+  {
+    "name": "BUHLOVKA",
+    "x": 11744,
+    "y": 2771,
+    "guildId": 321
+  },
+  {
+    "name": "Medieval Daybreak",
+    "x": 6036,
+    "y": 4846,
+    "guildId": 322
+  },
+  {
+    "name": "Grand Theft Carrots",
+    "x": 4852,
+    "y": 9723,
+    "guildId": 323
+  },
+  {
+    "name": "Los Matellos",
+    "x": 13264,
+    "y": 13513,
+    "guildId": 325
+  },
+  {
+    "name": "Order of the Dead Maiden",
+    "x": 12020,
+    "y": 11251,
+    "guildId": 327
+  },
+  {
+    "name": "Jiu shi wan",
+    "x": 16427,
+    "y": 9692,
+    "guildId": 328
+  },
+  {
+    "name": "Purgatory",
+    "x": 8500,
+    "y": 17739,
+    "guildId": 329
+  },
+  {
+    "name": "The House of Knightly RiffRaff",
+    "x": 11759,
+    "y": 4659,
+    "guildId": 330
+  },
+  {
+    "name": "Order of The Grand Toombski",
+    "x": 12789,
+    "y": 1317,
+    "guildId": 336
+  },
+  {
+    "name": "SSSS",
+    "x": 14977,
+    "y": 7804,
+    "guildId": 338
+  },
+  {
+    "name": "Alba",
+    "x": 15953,
+    "y": 215,
+    "guildId": 340
+  },
+  {
+    "name": "Sodium Chloride",
+    "x": 6784,
+    "y": 10367,
+    "guildId": 342
+  },
+  {
+    "name": "Viking du Lys",
+    "x": 389,
+    "y": 3243,
+    "guildId": 347
+  },
+  {
+    "name": "Forest Rangers Pimps",
+    "x": 14007,
+    "y": 2936,
+    "guildId": 351
+  },
+  {
+    "name": "Paradise",
+    "x": 3195,
+    "y": 12303,
+    "guildId": 353
+  },
+  {
+    "name": "NoYou",
+    "x": 11073,
+    "y": 14578,
+    "guildId": 356
+  },
+  {
+    "name": "Carrot Kids",
+    "x": 10534,
+    "y": 12717,
+    "guildId": 361
+  },
+  {
+    "name": "Arms Dealers",
+    "x": 6231,
+    "y": 4484,
+    "guildId": 362
+  },
+  {
+    "name": "Rippchen mit Kraut North",
+    "x": 11280,
+    "y": 15190,
+    "guildId": 363
+  },
+  {
+    "name": "Masons Village",
+    "x": 11465,
+    "y": 5643,
+    "guildId": 364
+  },
+  {
+    "name": "Radwanistan",
+    "x": 6197,
+    "y": 3666,
+    "guildId": 370
+  },
+  {
+    "name": "Mountain Fjolk",
+    "x": 12407,
+    "y": 2109,
+    "guildId": 375
+  },
+  {
+    "name": "Black Tower",
+    "x": 3302,
+    "y": 12209,
+    "guildId": 376
+  },
+  {
+    "name": "Markomannen",
+    "x": 10352,
+    "y": 14953,
+    "guildId": 380
+  },
+  {
+    "name": "Kallente Enjoyers",
+    "x": 11599,
+    "y": 11262,
+    "guildId": 382
+  },
+  {
+    "name": "Alba Villam",
+    "x": 5249,
+    "y": 16387,
+    "guildId": 386
+  },
+  {
+    "name": "West Mountain Ranger",
+    "x": 14270,
+    "y": 9350,
+    "guildId": 389
+  },
+  {
+    "name": "Legion del Temple",
+    "x": 2141,
+    "y": 10939,
+    "guildId": 391
+  },
+  {
+    "name": "Driftwood Manor",
+    "x": 11057,
+    "y": 12323,
+    "guildId": 392
+  },
+  {
+    "name": "Masons Forest",
+    "x": 11321,
+    "y": 6699,
+    "guildId": 395
+  },
+  {
+    "name": "Kynfold",
+    "x": 7363,
+    "y": 17257,
+    "guildId": 397
+  },
+  {
+    "name": "DRUNKEN MEDIEVAL",
+    "x": 7209,
+    "y": 2810,
+    "guildId": 398
+  },
+  {
+    "name": "Coinflippers",
+    "x": 11916,
+    "y": 11073,
+    "guildId": 400
+  },
+  {
+    "name": "TheUnderAchievers",
+    "x": 9961,
+    "y": 7475,
+    "guildId": 401
+  },
+  {
+    "name": "Fjordlaender",
+    "x": 4977,
+    "y": 6622,
+    "guildId": 402
+  },
+  {
+    "name": "Khorodai",
+    "x": 8449,
+    "y": 7065,
+    "guildId": 404
+  },
+  {
+    "name": "Tunneller Company inc",
+    "x": 1855,
+    "y": 3369,
+    "guildId": 405
+  },
+  {
+    "name": "Realms",
+    "x": 12928,
+    "y": 1343,
+    "guildId": 406
+  },
+  {
+    "name": "Nordvegen2",
+    "x": 10317,
+    "y": 16136,
+    "guildId": 410
+  },
+  {
+    "name": "Hellgarde",
+    "x": 12547,
+    "y": 2844,
+    "guildId": 414
+  },
+  {
+    "name": "struggle",
+    "x": 12883,
+    "y": 7178,
+    "guildId": 418
+  },
+  {
+    "name": "Forteresse De Louisbourg Harbor",
+    "x": 2067,
+    "y": 2079,
+    "guildId": 419
+  },
+  {
+    "name": "Ravens-Shadow",
+    "x": 12794,
+    "y": 8440,
+    "guildId": 420
+  },
+  {
+    "name": "JustRoamingBRO",
+    "x": 11183,
+    "y": 12963,
+    "guildId": 422
+  },
+  {
+    "name": "BER Natives",
+    "x": 11200,
+    "y": 17212,
+    "guildId": 425
+  },
+  {
+    "name": "WHITE PANDA VILLAGE",
+    "x": 13640,
+    "y": 5678,
+    "guildId": 427
+  },
+  {
+    "name": "Republic of DRUNKEN BEARS",
+    "x": 6164,
+    "y": 3982,
+    "guildId": 428
+  },
+  {
+    "name": "Olsenbande",
+    "x": 13374,
+    "y": 3765,
+    "guildId": 431
+  },
+  {
+    "name": "VOIDE",
+    "x": 17385,
+    "y": 14431,
+    "guildId": 433
+  },
+  {
+    "name": "TheAlabamaBoys",
+    "x": 15944,
+    "y": 8368,
+    "guildId": 440
+  },
+  {
+    "name": "LGBT Community",
+    "x": 14493,
+    "y": 9421,
+    "guildId": 444
+  },
+  {
+    "name": "Saleiros",
+    "x": 6981,
+    "y": 9923,
+    "guildId": 447
+  },
+  {
+    "name": "Varangians",
+    "x": 17410,
+    "y": 4664,
+    "guildId": 448
+  },
+  {
+    "name": "Orangeboys mladshie",
+    "x": 4505,
+    "y": 6163,
+    "guildId": 450
+  },
+  {
+    "name": "Got Wood",
+    "x": 17222,
+    "y": 1318,
+    "guildId": 451
+  },
+  {
+    "name": "knuls",
+    "x": 10415,
+    "y": 15881,
+    "guildId": 453
+  },
+  {
+    "name": "Frozen Underground",
+    "x": 2039,
+    "y": 14618,
+    "guildId": 455
+  },
+  {
+    "name": "Wikingowie z Jomsborga",
+    "x": 10129,
+    "y": 15672,
+    "guildId": 460
+  },
+  {
+    "name": "Lothlorian",
+    "x": 7466,
+    "y": 3054,
+    "guildId": 461
+  },
+  {
+    "name": "Belyvolk Bratva",
+    "x": 590,
+    "y": 13475,
+    "guildId": 462
+  },
+  {
+    "name": "SlavicSavages",
+    "x": 12298,
+    "y": 4957,
+    "guildId": 464
+  },
+  {
+    "name": "BUKANERS",
+    "x": 15492,
+    "y": 14773,
+    "guildId": 465
+  },
+  {
+    "name": "Crows Nest",
+    "x": 615,
+    "y": 208,
+    "guildId": 467
+  },
+  {
+    "name": "Wild Hermits",
+    "x": 5417,
+    "y": 6154,
+    "guildId": 469
+  },
+  {
+    "name": "Manus manum lavat",
+    "x": 13936,
+    "y": 8122,
+    "guildId": 470
+  },
+  {
+    "name": "South Palmyra",
+    "x": 16131,
+    "y": 2531,
+    "guildId": 471
+  },
+  {
+    "name": "Grufinol",
+    "x": 13599,
+    "y": 1770,
+    "guildId": 472
+  },
+  {
+    "name": "The Varangian Crusade",
+    "x": 9929,
+    "y": 13733,
+    "guildId": 473
+  },
+  {
+    "name": "Heimdalls Ehre",
+    "x": 2265,
+    "y": 11414,
+    "guildId": 477
+  },
+  {
+    "name": "Black Sand Mercenaries",
+    "x": 4816,
+    "y": 13420,
+    "guildId": 483
+  },
+  {
+    "name": "Ulfhednar",
+    "x": 13366,
+    "y": 2179,
+    "guildId": 486
+  },
+  {
+    "name": "Ukraininan Sexy Guards",
+    "x": 12360,
+    "y": 14631,
+    "guildId": 488
+  },
+  {
+    "name": "Free Company",
+    "x": 3157,
+    "y": 7430,
+    "guildId": 489
+  },
+  {
+    "name": "Salt Shakers",
+    "x": 7104,
+    "y": 10030,
+    "guildId": 490
+  },
+  {
+    "name": "Ker Bihan",
+    "x": 11152,
+    "y": 581,
+    "guildId": 491
+  },
+  {
+    "name": "Wessex South",
+    "x": 4316,
+    "y": 5192,
+    "guildId": 493
+  },
+  {
+    "name": "Sanguis Draconis",
+    "x": 13269,
+    "y": 4655,
+    "guildId": 494
+  },
+  {
+    "name": "Greyjoy",
+    "x": 1435,
+    "y": 5289,
+    "guildId": 502
+  },
+  {
+    "name": "JOHN SNOW",
+    "x": 4094,
+    "y": 2641,
+    "guildId": 505
+  },
+  {
+    "name": "Thorgard III",
+    "x": 10514,
+    "y": 15939,
+    "guildId": 506
+  },
+  {
+    "name": "Castle Black",
+    "x": 12273,
+    "y": 14800,
+    "guildId": 507
+  },
+  {
+    "name": "Northumbrian Guard",
+    "x": 9425,
+    "y": 10100,
+    "guildId": 511
+  },
+  {
+    "name": "Meliora North",
+    "x": 4793,
+    "y": 16128,
+    "guildId": 515
+  },
+  {
+    "name": "Anti Pistos Team",
+    "x": 14579,
+    "y": 9381,
+    "guildId": 517
+  },
+  {
+    "name": "Steel Crumb",
+    "x": 9637,
+    "y": 13509,
+    "guildId": 518
+  },
+  {
+    "name": "Kattegat Nord",
+    "x": 12793,
+    "y": 735,
+    "guildId": 519
+  },
+  {
+    "name": "Poverty",
+    "x": 13309,
+    "y": 16259,
+    "guildId": 521
+  },
+  {
+    "name": "Gaolaozhuang-A",
+    "x": 16660,
+    "y": 10577,
+    "guildId": 523
+  },
+  {
+    "name": "Gaolaozhuang-B",
+    "x": 16807,
+    "y": 10483,
+    "guildId": 524
+  },
+  {
+    "name": "Frostklingen",
+    "x": 349,
+    "y": 856,
+    "guildId": 526
+  },
+  {
+    "name": "Baby Biroleide Baby",
+    "x": 15686,
+    "y": 16119,
+    "guildId": 528
+  },
+  {
+    "name": "Gaolaozhuang-C",
+    "x": 16935,
+    "y": 10585,
+    "guildId": 530
+  },
+  {
+    "name": "Masons Fortress",
+    "x": 11287,
+    "y": 5525,
+    "guildId": 531
+  },
+  {
+    "name": "Masons Main Forest",
+    "x": 11164,
+    "y": 5633,
+    "guildId": 532
+  },
+  {
+    "name": "Sinners Fan",
+    "x": 12867,
+    "y": 7066,
+    "guildId": 535
+  },
+  {
+    "name": "Black Rose",
+    "x": 9080,
+    "y": 17438,
+    "guildId": 536
+  },
+  {
+    "name": "Padre de montana",
+    "x": 6888,
+    "y": 6646,
+    "guildId": 539
+  },
+  {
+    "name": "Innfodt",
+    "x": 7470,
+    "y": 7902,
+    "guildId": 542
+  },
+  {
+    "name": "Pilgrims Lake",
+    "x": 16854,
+    "y": 16532,
+    "guildId": 546
+  },
+  {
+    "name": "Lonely Mountain",
+    "x": 13429,
+    "y": 161,
+    "guildId": 547
+  },
+  {
+    "name": "Frozen Stronghold",
+    "x": 2152,
+    "y": 14621,
+    "guildId": 550
+  },
+  {
+    "name": "Alatyr  squad",
+    "x": 15655,
+    "y": 14705,
+    "guildId": 552
+  },
+  {
+    "name": "Wonderers",
+    "x": 17649,
+    "y": 4419,
+    "guildId": 553
+  },
+  {
+    "name": "The Varangian Rock",
+    "x": 7544,
+    "y": 13723,
+    "guildId": 554
+  },
+  {
+    "name": "Sositos My Pistos Academy",
+    "x": 14441,
+    "y": 9160,
+    "guildId": 557
+  },
+  {
+    "name": "Weinaerhaidao",
+    "x": 12818,
+    "y": 7517,
+    "guildId": 558
+  },
+  {
+    "name": "DROXII",
+    "x": 7409,
+    "y": 13597,
+    "guildId": 559
+  },
+  {
+    "name": "Oprichniki",
+    "x": 7701,
+    "y": 9061,
+    "guildId": 562
+  },
+  {
+    "name": "Banana Republic",
+    "x": 15614,
+    "y": 407,
+    "guildId": 563
+  },
+  {
+    "name": "F GZ Cuxts and mod abuse",
+    "x": 16093,
+    "y": 9427,
+    "guildId": 566
+  },
+  {
+    "name": "Prayfor Evir",
+    "x": 7298,
+    "y": 13767,
+    "guildId": 571
+  },
+  {
+    "name": "Corhaven Maples",
+    "x": 12612,
+    "y": 2005,
+    "guildId": 573
+  },
+  {
+    "name": "Forteresse de Louibourg Chasse",
+    "x": 1755,
+    "y": 1802,
+    "guildId": 574
+  },
+  {
+    "name": "Killing is Natural",
+    "x": 3850,
+    "y": 4035,
+    "guildId": 578
+  },
+  {
+    "name": "Kobylky",
+    "x": 14485,
+    "y": 1036,
+    "guildId": 584
+  }
+]
